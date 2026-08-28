@@ -3,7 +3,7 @@
 
 int main(){
 
-    std::cout << "fortnite" << std::endl;
+    std::cout << "fortnte" << std::endl;
 
     return -1;
 }
